@@ -1,2 +1,1 @@
-# SIP_project
 # AttritionGuard
